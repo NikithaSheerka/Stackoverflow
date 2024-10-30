@@ -1,0 +1,14 @@
+.question-box {
+	margin: 5%;
+}
+
+.post-question-container {
+	margin: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #f1f2f3;
+}
+
+.error-message {
+	color: red;
+}
